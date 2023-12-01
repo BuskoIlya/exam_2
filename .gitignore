@@ -1,0 +1,7 @@
+.*
+!.gitignore
+
+.vs/
+x64/
+
+log
